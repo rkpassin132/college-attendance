@@ -1,0 +1,52 @@
+#searchModal{
+    backdrop-filter: blur(2px);
+}
+#searchModal .modal-content{
+    background: transparent;
+    border: none;
+}
+#searchModal .input-group{
+    filter: drop-shadow(1px 5px 3px #3d3b3ba3);
+}
+#searchModal .list-group{
+    filter: drop-shadow(1px 4px 3px #3d3b3ba3);
+
+}
+#searchModal .input-group-prepend .input-group-text{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    cursor: pointer;
+}
+#searchModal .input-group-append .input-group-text{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    cursor: pointer;
+}
+#searchModal .input-group-text{
+    background-color: #ffffff;
+    border: none;
+    border-radius: 1.25rem;
+}
+#searchModal .form-control{
+    border: none;
+    box-shadow: none;
+}
+#searchModal .list-group-item.disabled, .list-group-item:disabled {
+    color: #171717 !important;
+    background-color: #e9eaef !important;
+    padding: 0.3rem 1rem !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+}
+#searchModal .list-group-item{
+    padding: 0.55rem 1.25rem !important;
+    font-size: 15px !important;
+}
+.search-mobile{
+    display: none !important;
+}
+@media screen and (max-width: 600px) {
+    .search-mobile{
+        display: block !important;
+    }
+}
