@@ -5,6 +5,8 @@ Online student attendance and schedule management system.
 - Every table data can be downloaded as excel and pdf. 
 - File upload used for creating multiple tuples.
 
+[<img alt="Admin dashboard" align="left" src="images/login.png" />](#)
+
 ## Admin panel
 
 [<img alt="Admin dashboard" align="left" width="350" src="images/admin-dashboard.png" />](#)

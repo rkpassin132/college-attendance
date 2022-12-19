@@ -100,7 +100,7 @@ if (check_user($conn)) {
                                         </button>
                                     </div>
                                     <div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-12">
-                                        <p class="text-dark pl-4 pr-4"><span class="font-weight-bold">Any Issues?</span> Please Contact ERP & LMS Helpdesk help@dseu.ac.in</p>
+                                        <p class="text-dark pl-4 pr-4"><span class="font-weight-bold">Any Issues?</span> Please Contact ERP & LMS Helpdesk help@attendance.ac.in</p>
                                     </div>
                                 </form>
                             </div>
